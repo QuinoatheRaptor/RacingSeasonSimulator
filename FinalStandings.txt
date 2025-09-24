@@ -1,0 +1,369 @@
+Season 2
+Final Standings:
+1: Rafiq ad-Din(Alfa Romeo) - 322, W2, P5
+2: Yan Rambert(LaRez) (X) - 319, W3, P8
+3: Nero Carlevaro(Ferrari) (X) - 307, W3, P6
+4: Carlos Loyola(Lamborghini) - 229, W0, P1
+5: Franklin Laverne(Aston Martin) (XX) - 225, W2, P3
+6: Roland Garnier(Alpine) (X) - 220, W0, P3
+7: Rian MacQueen(Alfa Romeo) (XX) - 209, W0, P3
+8: Bill Bourne(Dodge) (X) - 187, W0, P1
+9: Oskar Shaw(McLaren) - 162, W0, P0
+10: Zoilos O'Hannagain(McLaren) - 133, W0, P0
+11: Timucin Radic(Pagani) - 103, W0, P0
+12: Michael Zabala(LaRez) (X) - 98, W0, P0
+13: Tzion Grimaldi(Red Bull) - 84, W0, P0
+14: Zorro Petrauskas(Dodge) - 67, W0, P0
+15: Atlas Crocetti(Ford/Mustang) (X) - 48, W0, P0
+16: Aldana Bosque(AlphaTauri) (XXXXXX) - 47, W0, P0
+17: Mateo Colombo(Ford/Mustang) (XX) - 45, W0, P0
+18: Wilton Willis(Aston Martin) (X) - 37, W0, P0
+19: Nazim Machaah(Mercedes) (XXXXX) - 36, W0, P0
+20: Matthias Van Antwerp(Williams) (XX) - 25, W0, P0
+21: Hidemi Hirano(Japan) - 25, W0, P0
+22: Chau Nguyen(AlphaTauri) (XXXX) - 22, W0, P0
+23: Dario Sartini(Ferrari) (XX) - 20, W0, P0
+24: Jasper Karamazov(Pagani) - 18, W0, P0
+25: Ray Barclay(Invicta) (XXXXX) - 15, W0, P0
+26: Simon Riano(Lamborghini) (X) - 11, W0, P0
+27: Saburo Saitou(Japan) - 11, W0, P0
+28: Anzor Zbikowski(Alpine) - 11, W0, P0
+29: Cibran Martin(Mercedes) (XX) - 10, W0, P0
+30: Mykolas Kovacevic(Red Bull) (XX) - 8, W0, P0
+31: Anthony Burhan(Invicta) (XXXXXX) - 8, W0, P0
+32: Akimitsu Iokua(Williams) (XXX) - 7, W0, P0
+
+Final Team Standings:
+1: Alfa Romeo - 531, W2, P8
+2: LaRez - 417, W3, P8
+3: Ferrari - 327, W3, P6
+4: McLaren - 295, W0, P0
+5: Aston Martin - 262, W2, P3
+6: Dodge - 254, W0, P1
+7: Lamborghini - 240, W0, P1
+8: Alpine - 231, W0, P3
+9: Pagani - 121, W0, P0
+10: Ford/Mustang - 93, W0, P0
+11: Red Bull - 92, W0, P0
+12: AlphaTauri - 69, W0, P0
+13: Mercedes - 46, W0, P0
+14: Japan - 36, W0, P0
+15: Williams - 32, W0, P0
+16: Invicta - 23, W0, P0
+
+Season 3
+Final Standings:
+1: Rian MacQueen(Alfa Romeo) (X) - 333, W2, P8
+2: Bill Bourne(Pagani) - 308, W6, P6
+3: Nero Carlevaro(Ferrari) (X) - 270, W1, P5
+4: Yan Rambert(LaRez) - 261, W0, P3
+5: Roland Garnier(Alpine) (XX) - 218, W0, P5
+6: Franklin Laverne(Aston Martin) - 211, W0, P0
+7: Aldana Bosque(AlphaTauri) - 203, W0, P1
+8: Oskar Shaw(McLaren) - 198, W0, P0
+9: Rafiq ad-Din(Alfa Romeo) (XX) - 179, W1, P2
+10: Zoilos O'Hannagain(McLaren) - 118, W0, P0
+11: Timucin Radic(Pagani) - 118, W0, P0
+12: Tzion Grimaldi(Ferrari) - 92, W0, P0
+13: Nazim Machaah(Mercedes) (XXX) - 74, W0, P0
+14: Carlos Loyola(Lamborghini) (XX) - 65, W0, P0
+15: Ray Barclay(Williams) (X) - 58, W0, P0
+16: Michael Zabala(LaRez) (XXX) - 56, W0, P0
+17: Zorro Petrauskas(Dodge) - 51, W0, P0
+18: Atlas Crocetti(Ford/Mustang) (XX) - 49, W0, P0
+19: Frank Castro*(Mercedes) (XX) - 39, W0, P0
+20: Arian MacKenna*(Alpine) - 33, W0, P0
+21: Benedetto de Santis(Invicta) (XX) - 26, W0, P0
+22: Seth Alberink*(AlphaTauri) (X) - 19, W0, P0
+23: Wilton Willis(Aston Martin) (XXX) - 15, W0, P0
+24: David Polack(Dodge) - 14, W0, P0
+25: Mateo Colombo(Ford/Mustang) (X) - 12, W0, P0
+26: Arya Kader*(Williams) (XX) - 11, W0, P0
+27: Asher Finch(Red Bull) (X) - 10, W0, P0
+28: Chau Nguyen(Japan) - 10, W0, P0
+29: Hidemi Hirano(Japan) - 10, W0, P0
+30: Mykolas Kovacevic(Red Bull) (X) - 9, W0, P0
+31: Rene Guzman*(Lamborghini) (X) - 9, W0, P0
+32: Neil Terzi(Invicta) (XX) - 8, W0, P0
+
+Final Team Standings:
+1: Alfa Romeo - 512, W3, P10
+2: Pagani - 426, W6, P6
+3: Ferrari - 362, W1, P5
+4: LaRez - 317, W0, P3
+5: McLaren - 316, W0, P0
+6: Alpine - 251, W0, P5
+7: Aston Martin - 226, W0, P0
+8: AlphaTauri - 222, W0, P1
+9: Mercedes - 113, W0, P0
+10: Lamborghini - 74, W0, P0
+11: Williams - 69, W0, P0
+12: Dodge - 65, W0, P0
+13: Ford/Mustang - 61, W0, P0
+14: Invicta - 34, W0, P0
+15: Japan - 20, W0, P0
+16: Red Bull - 19, W0, P0
+
+Season 4
+Final Standings:
+1: Zoilos O'Hannagain(Ford/Mustang) (X) - 351, W6, P8
+2: Nero Carlevaro(Ferrari) (X) - 278, W2, P5
+3: Timucin Radic(Pagani) (X) - 268, W1, P6
+4: Rafiq ad-Din(Alfa Romeo) - 232, W1, P3
+5: Rian MacQueen(Alfa Romeo) (X) - 231, W0, P2
+6: Oskar Shaw(McLaren) - 220, W0, P1
+7: Franklin Laverne(Aston Martin) - 218, W0, P1
+8: Yan Rambert(LaRez) (XX) - 200, W0, P4
+9: Roland Garnier(Alpine) (X) - 141, W0, P0
+10: Aldana Bosque(AlphaTauri) (XX) - 135, W0, P0
+11: Michael Zabala(LaRez) - 124, W0, P0
+12: Ray Barclay(Williams) - 105, W0, P0
+13: Atlas Crocetti(Ford/Mustang) - 73, W0, P0
+14: Frank Castro(Mercedes) (X) - 69, W0, P0
+15: Tzion Grimaldi(Ferrari) (XXX) - 68, W0, P0
+16: Zorro Petrauskas(Dodge) - 63, W0, P0
+17: Nazim Machaah(Mercedes) (XXX) - 50, W0, P0
+18: Morgan McInnes*(McLaren) (X) - 47, W0, P0
+19: Carlos Loyola(Lamborghini) (XX) - 31, W0, P0
+20: Ponciano Vargas*(Lamborghini) (X) - 27, W0, P0
+21: Arian MacKenna(Alpine) (X) - 25, W0, P0
+22: Benedetto de Santis(Invicta) (X) - 19, W0, P0
+23: Seth Alberink(AlphaTauri) (XXX) - 17, W0, P0
+24: Chau Nguyen(Japan) - 16, W0, P0
+25: Dafydd Mag Raith*(Dodge) (X) - 13, W0, P0
+26: Juris Yama*(Pagani) - 11, W0, P0
+27: Arya Kader(Williams) (X) - 11, W0, P0
+28: Wilton Willis(Aston Martin) - 10, W0, P0
+29: Kasey Bachmann*(Red Bull) - 10, W0, P0
+30: Abe Kimura(Japan) - 10, W0, P0
+31: Dario Sartini(Invicta) - 10, W0, P0
+32: Asher Finch(Red Bull) - 10, W0, P0
+
+Final Team Standings:
+1: Alfa Romeo - 463, W1, P5
+2: Ford/Mustang - 424, W6, P8
+3: Ferrari - 346, W2, P5
+4: LaRez - 324, W0, P4
+5: Pagani - 279, W1, P6
+6: McLaren - 267, W0, P1
+7: Aston Martin - 228, W0, P1
+8: Alpine - 166, W0, P0
+9: AlphaTauri - 152, W0, P0
+10: Mercedes - 119, W0, P0
+11: Williams - 116, W0, P0
+12: Dodge - 76, W0, P0
+13: Lamborghini - 58, W0, P0
+14: Invicta - 29, W0, P0
+15: Japan - 26, W0, P0
+16: Red Bull - 20, W0, P0
+
+Season 5:
+Final Standings:
+1: Zoilos O'Hannagain(Ford/Mustang) (X) - 329, W4, P8
+2: Timucin Radic(Pagani) - 284, W1, P6
+3: Bill Bourne(Pagani) (XX) - 277, W4, P6
+4: Roland Garnier(Alpine) - 196, W0, P1
+5: Yan Rambert(LaRez) (XX) - 196, W0, P1
+6: Rian MacQueen(Alfa Romeo) (XXX) - 187, W1, P3
+7: Nero Carlevaro(Ferrari) (X) - 187, W0, P2
+8: Oskar Shaw(McLaren) (XX) - 185, W0, P2
+9: Michael Zabala(LaRez) (X) - 177, W0, P1
+10: Franklin Laverne(Aston Martin) (X) - 170, W0, P0
+11: Rafiq ad-Din(Alfa Romeo) (X) - 153, W0, P0
+12: Frank Castro(Mercedes) (X) - 107, W0, P0
+13: Morgan McInnes(McLaren) - 93, W0, P0
+14: Tzion Grimaldi(Ferrari) - 91, W0, P0
+15: Aldana Bosque(Japan) - 72, W0, P0
+16: Ray Barclay(Williams) (XX) - 61, W0, P0
+17: Arian MacKenna(Alpine) - 53, W0, P0
+18: Nazim Machaah(Invicta) (X) - 49, W0, P0
+19: Zorro Petrauskas(Williams) (XX) - 37, W0, P0
+20: Dejen Vang(AlphaTauri) - 34, W0, P0
+21: Seth Alberink(AlphaTauri) (XXX) - 25, W0, P0
+22: Dafydd Mag Raith(Dodge) (X) - 18, W0, P0
+23: Chau Nguyen(Japan) (X) - 16, W0, P0
+24: Benedetto de Santis(Invicta) - 14, W0, P0
+25: Carlos Loyola(Lamborghini) - 12, W0, P0
+26: Cedric Lesley(Aston Martin) (XX) - 10, W0, P0
+27: Mateo Colombo(Red Bull) - 10, W0, P0
+28: Miles Pabst(Dodge) - 10, W0, P0
+29: Cibran Martin(Mercedes) - 10, W0, P0
+30: Kasey Bachmann(Red Bull) - 10, W0, P0
+31: Atlas Crocetti(Ford/Mustang) (X) - 9, W0, P0
+32: Ponciano Vargas(Lamborghini) (X) - 9, W0, P0
+
+Final Team Standings:
+1: Pagani - 561, W5, P12
+2: LaRez - 373, W0, P2
+3: Alfa Romeo - 340, W1, P3
+4: Ford/Mustang - 338, W4, P8
+5: Ferrari - 278, W0, P2
+6: McLaren - 278, W0, P2
+7: Alpine - 249, W0, P1
+8: Aston Martin - 180, W0, P0
+9: Mercedes - 117, W0, P0
+10: Williams - 98, W0, P0
+11: Japan - 88, W0, P0
+12: Invicta - 63, W0, P0
+13: AlphaTauri - 59, W0, P0
+14: Dodge - 28, W0, P0
+15: Lamborghini - 21, W0, P0
+16: Red Bull - 20, W0, P0
+
+D2 Final Standings:
+1: Niklas Averill*(AlphaTauri) - 450, W10, P10
+2: Lamar Gilbert*(LaRez) - 350, W0, P10
+3: Mario Palazzo(Ferrari) - 320, W0, P10
+4: Corwin Alders(McLaren) (X) - 217, W0, P0
+5: Nolan MacCoinnich(Invicta) (X) - 191, W0, P0
+6: Jurou Small(Ford/Mustang) (X) - 185, W0, P0
+7: Dries Rukowski(Pagani) (X) - 164, W0, P0
+8: Wilton Willis(Aston Martin) - 156, W0, P0
+9: Omar Saban*(Williams) (X) - 130, W0, P0
+10: Otto Ristic(LaRez) (XX) - 114, W0, P0
+11: Elias Dali*(Ford/Mustang) (X) - 103, W0, P0
+12: Juris Yama(Pagani) (X) - 87, W0, P0
+13: Azrahel Sierzant*(Alfa Romeo) (X) - 75, W0, P0
+14: Mark Karthikeyan(Japan) - 73, W0, P0
+15: Arya Kader(Williams) (XX) - 72, W0, P0
+16: Akimitsu Iokua(Aston Martin) - 59, W0, P0
+17: Toki Jakobsen*(Invicta) (X) - 56, W0, P0
+18: Anzor Zbikowski(AlphaTauri) (XX) - 49, W0, P0
+19: Matthias Van Antwerp(Mercedes) (X) - 39, W0, P0
+20: Marcel Fabbri(Lamborghini) (XXX) - 26, W0, P0
+21: Abe Kimura(Japan) (X) - 24, W0, P0
+22: Simao  (Alpine) (XX) - 20, W0, P0
+23: Rene Guzman(Lamborghini) (XX) - 18, W0, P0
+24: Asher Finch(Ferrari) (XX) - 16, W0, P0
+25: Simo Du*(Red Bull) - 12, W0, P0
+26: Erkin Mendelsohn(Alfa Romeo) (X) - 12, W0, P0
+27: David Polack(Dodge) (X) - 12, W0, P0
+28: Lane Matthews*(McLaren) - 11, W0, P0
+29: Vinicio Rodriguez*(Dodge) (XXX) - 11, W0, P0
+30: Saburo Saitou(Alpine) (XXX) - 10, W0, P0
+31: Raleigh Coleman*(Mercedes) (XXX) - 10, W0, P0
+32: Mstislav Szep(Red Bull) (XX) - 9, W0, P0
+
+D2 Final Team Standings:
+1: AlphaTauri - 499, W10, P10
+2: LaRez - 464, W0, P10
+3: Ferrari - 336, W0, P10
+4: Ford/Mustang - 288, W0, P0
+5: Pagani - 251, W0, P0
+6: Invicta - 247, W0, P0
+7: McLaren - 228, W0, P0
+8: Aston Martin - 215, W0, P0
+9: Williams - 202, W0, P0
+10: Japan - 97, W0, P0
+11: Alfa Romeo - 87, W0, P0
+12: Mercedes - 49, W0, P0
+13: Lamborghini - 44, W0, P0
+14: Alpine - 30, W0, P0
+15: Dodge - 23, W0, P0
+16: Red Bull - 21, W0, P0
+
+Season 6
+Final Standings:
+1: Rian MacQueen(Alfa Romeo) - 400, W6, P9
+2: Rafiq ad-Din(Alfa Romeo) (X) - 316, W2, P8
+3: Bill Bourne(Pagani) (X) - 233, W0, P4
+4: Michael Zabala(LaRez) (XX) - 222, W1, P4
+5: Yan Rambert(LaRez) (X) - 199, W0, P0
+6: Oskar Shaw(McLaren) - 193, W0, P0
+7: Zoilos O'Hannagain(Ford/Mustang) (X) - 189, W0, P0
+8: Morgan McInnes(McLaren) (X) - 182, W1, P2
+9: Franklin Laverne(Aston Martin) (X) - 179, W0, P2
+10: Nero Carlevaro(Ferrari) (X) - 150, W0, P1
+11: Frank Castro(Mercedes) (X) - 115, W0, P0
+12: Timucin Radic(Pagani) - 112, W0, P0
+13: Roland Garnier(Alpine) (XX) - 97, W0, P0
+14: Cedric Lesley(Aston Martin) (X) - 70, W0, P0
+15: Dafydd Mag Raith(Dodge) - 60, W0, P0
+16: Aldana Bosque(Japan) (X) - 59, W0, P0
+17: Arian MacKenna(Alpine) - 47, W0, P0
+18: Nazim Machaah(Invicta) - 37, W0, P0
+19: Dejen Vang(AlphaTauri) (XX) - 34, W0, P0
+20: Seth Alberink(AlphaTauri) (XXX) - 33, W0, P0
+21: Tzion Grimaldi(Ferrari) - 29, W0, P0
+22: Ray Barclay(Williams) (XXXXXX) - 21, W0, P0
+23: Nolan MacCoinnich(Invicta) (X) - 17, W0, P0
+24: Chau Nguyen(Japan) - 15, W0, P0
+25: Jurou Small(Ford/Mustang) (X) - 12, W0, P0
+26: Atlas Crocetti(Red Bull) - 12, W0, P0
+27: Mateo Colombo(Red Bull) - 10, W0, P0
+28: Carlos Loyola(Lamborghini) - 10, W0, P0
+29: Cibran Martin(Mercedes) (X) - 9, W0, P0
+30: Miles Pabst(Dodge) (XX) - 8, W0, P0
+31: Marcel Fabbri(Lamborghini) (XX) - 8, W0, P0
+32: Zorro Petrauskas(Williams) (XXXXXX) - 4, W0, P0
+
+Final Team Standings:
+1: Alfa Romeo - 716, W8, P17
+2: LaRez - 421, W1, P4
+3: McLaren - 375, W1, P2
+4: Pagani - 345, W0, P4
+5: Aston Martin - 249, W0, P2
+6: Ford/Mustang - 201, W0, P0
+7: Ferrari - 179, W0, P1
+8: Alpine - 144, W0, P0
+9: Mercedes - 124, W0, P0
+10: Japan - 74, W0, P0
+11: Dodge - 68, W0, P0
+12: AlphaTauri - 67, W0, P0
+13: Invicta - 54, W0, P0
+14: Williams - 25, W0, P0
+15: Red Bull - 22, W0, P0
+16: Lamborghini - 18, W0, P0
+
+D2 Final Standings:
+1: Cash Christopher*(Alfa Romeo) - 450, W10, P10
+2: Corwin Alders(McLaren) - 355, W0, P10
+3: Mario Palazzo(Ferrari) - 283, W0, P6
+4: Lamar Gilbert(LaRez) - 278, W0, P3
+5: Niklas Averill(AlphaTauri) - 256, W0, P1
+6: Gregoire Gwendolleux(Invicta) - 213, W0, P0
+7: Toki Jakobsen(Invicta) (X) - 145, W0, P0
+8: Hugo Guevara*(Ford/Mustang) (X) - 122, W0, P0
+9: Wilton Willis(Aston Martin) (X) - 112, W0, P0
+10: Azrahel Sierzant(Alfa Romeo) - 88, W0, P0
+11: Mack Buckley*(Alpine) (X) - 86, W0, P0
+12: Otto Ristic(LaRez) (X) - 83, W0, P0
+13: Dries Rukowski(Pagani) (XX) - 80, W0, P0
+14: Omar Saban(Williams) (XXX) - 75, W0, P0
+15: Anzor Zbikowski(AlphaTauri) (X) - 75, W0, P0
+16: Irek Park*(Mercedes) - 55, W0, P0
+17: Elias Dali(Ford/Mustang) - 54, W0, P0
+18: Arya Kader(Dodge) (XX) - 53, W0, P0
+19: Juris Yama(Pagani) (X) - 45, W0, P0
+20: Ponciano Vargas(Aston Martin) (X) - 40, W0, P0
+21: Nazir Ibrahim*(Dodge) - 27, W0, P0
+22: Abe Kimura(Japan) - 19, W0, P0
+23: Hayato Nakajima*(Japan) - 18, W0, P0
+24: Raleigh Coleman(Mercedes) - 12, W0, P0
+25: Carlos Tosto*(Lamborghini) - 10, W0, P0
+26: Rusty Danchev*(McLaren) (X) - 9, W0, P0
+27: Sanya Ferrero*(Red Bull) (X) - 9, W0, P0
+28: Nils Kovac(Alpine) (XX) - 8, W0, P0
+29: Zahir Fiore*(Williams) (XX) - 8, W0, P0
+30: Orso Ballerini*(Ferrari) (XX) - 8, W0, P0
+31: Rene Guzman(Lamborghini) (XXX) - 8, W0, P0
+32: Marcos Ojeda(Red Bull) (XX) - 8, W0, P0
+
+D2 Final Team Standings:
+1: Alfa Romeo - 538, W10, P10
+2: McLaren - 364, W0, P10
+3: LaRez - 361, W0, P3
+4: Invicta - 358, W0, P0
+5: AlphaTauri - 331, W0, P1
+6: Ferrari - 291, W0, P6
+7: Ford/Mustang - 176, W0, P0
+8: Aston Martin - 152, W0, P0
+9: Pagani - 125, W0, P0
+10: Alpine - 94, W0, P0
+11: Williams - 83, W0, P0
+12: Dodge - 80, W0, P0
+13: Mercedes - 67, W0, P0
+14: Japan - 37, W0, P0
+15: Lamborghini - 18, W0, P0
+16: Red Bull - 17, W0, P0
+
