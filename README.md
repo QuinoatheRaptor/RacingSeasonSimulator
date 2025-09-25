@@ -22,6 +22,7 @@ If you fully simulate the race, another thing you'll see printed is the list of 
 If you don't what to see every car's position every lap there are two variables called topCars and topSeconds that can be adjusted. The code will only print the top topCars cars in the race or every car who's less than topSeconds behind first place. These can be changed in lines 131-133 of RaceSimulator.java.
 
 ## Input
-I'm in the process of learning about databases which will hopefully be a great improvement in the way car and track data is stored for this program. Until then though, all car and track data is read from txt files at the beginning of the code.
+I'm in the process of learning about databases which will hopefully be a great improvement in the way car and track data is stored for this program. Until then though, all car and track data is read from txt files at the beginning of the code. My test cars and tracks are in this repo and can be used as a template for how to add your own data.
 
 ## Future additions
+I recently started learning how to make a Java GUI with the ultimate goal of having a visual of the race's execution. Other big issue to fix is the issue of cars becoming too spread out during the race. I'm trying to find ways to reduce spread. Also in the D2 races (where drivers are less skilled), the drivers finish in roughly the same order every race which is another issue I'm hoping to eliminate
