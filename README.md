@@ -22,5 +22,6 @@ If you fully simulate the race, another thing you'll see printed is the list of 
 If you don't what to see every car's position every lap there are two variables called topCars and topSeconds that can be adjusted. The code will only print the top topCars cars in the race or every car who's less than topSeconds behind first place. These can be changed in lines 131-133 of RaceSimulator.java.
 
 ## Input
+I'm in the process of learning about databases which will hopefully be a great improvement in the way car and track data is stored for this program. Until then though, all car and track data is read from txt files at the beginning of the code.
 
 ## Future additions
